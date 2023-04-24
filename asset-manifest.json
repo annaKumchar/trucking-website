@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trucking-website/static/css/main.7acaea2f.css",
+    "main.js": "/trucking-website/static/js/main.07d3183d.js",
+    "index.html": "/trucking-website/index.html",
+    "main.7acaea2f.css.map": "/trucking-website/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/trucking-website/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
